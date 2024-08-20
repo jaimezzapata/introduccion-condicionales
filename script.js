@@ -13,7 +13,6 @@
 //     console.log('Ultima ejecución')
 // }
 // let categoria = prompt("Ingrese la catengoria: 1- Tecnologia");
-
 // switch (categoria.toLowerCase()) {
 //   case "tecnologia":
 //     console.log("Esta es la categoria tecnologia");
